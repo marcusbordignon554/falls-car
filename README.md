@@ -1,5 +1,10 @@
 # 🚗 Falls-Car
 
+[![FAETERJ](https://img.shields.io/badge/FAETERJ-Introdução%20à%20Análise%20de%20Sistemas-009688)]()
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)]()
+[![Projeto Acadêmico](https://img.shields.io/badge/Projeto-Acadêmico-blue.svg)]()
+[![Google AI](https://img.shields.io/badge/Google-AI_Studio-red?logo=google)]()
+[![UML](https://img.shields.io/badge/UML-Diagrams-blueviolet)]()
 FAETERJ Status Projeto Acadêmico UML Engenharia de Software
 
 Sistema de Gerenciamento de Aluguel de Veículos desenvolvido como projeto acadêmico da disciplina Introdução à Análise de Sistemas da FAETERJ.

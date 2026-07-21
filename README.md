@@ -1,6 +1,6 @@
 # 🚗 Falls-Car
 
-![FAETERJ - Interface Humano-Máquina](https://img.shields.io/badge/FAETERJ-Interface%20Humano-M%C3%A1quina-009688)
+[![FAETERJ - Interface Humano-Máquina](https://img.shields.io/badge/FAETERJ-Interface%20Humano-M%C3%A1quina-009688?style=flat&logoColor=white)]()
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)]()
 [![Projeto Acadêmico](https://img.shields.io/badge/Projeto-Acadêmico-blue.svg)]()
 [![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?logo=figma)]()

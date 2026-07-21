@@ -1,6 +1,6 @@
 # 🚗 Falls-Car
 
-![FAETERJ - Interface Humano-Máquina](https://img.shields.io/badge/FAETERJ-Interface%20Humano-M%C3%A1quina-009688?style=flat&logoColor=white)
+![FAETERJ - Interface Humano-Máquina](https://img.shields.io/static/v1?label=FAETERJ&message=Interface%20Humano-M%C3%A1quina&color=009688&style=flat)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 ![Projeto Acadêmico](https://img.shields.io/badge/Projeto-Acad%C3%AAmico-blue.svg)
 ![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?logo=figma)
@@ -13,7 +13,7 @@ Sistema de Gerenciamento de Aluguel de Veículos desenvolvido como projeto acad�
 
 ## 📖 Sobre o Projeto
 
-O Falls-Car é um sistema de gerenciamento para empresas de aluguel de veículos desenvolvido como projeto acadêmico da disciplina Introdução à Análise de Sistemas, do curso de Análise e Desenvo[...] 
+O Falls-Car é um sistema de gerenciamento para empresas de aluguel de veículos desenvolvido como projeto acadêmico da disciplina Introdução à Análise de Sistemas, do curso de Análise e Des[...]
 
 O projeto teve como objetivo aplicar conceitos de Engenharia de Software, incluindo levantamento de requisitos, análise de sistemas, modelagem UML e documentação técnica para criação de uma [...]
 

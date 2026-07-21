@@ -128,7 +128,6 @@ Ela inclui:
 
 Marcus Vinicius Simões Bordignon  
 Tiago Luiz da Silva Perri
-
 Vitória Nogueira Fernandes
 
 Projeto desenvolvido durante o 1º período do curso de Análise e Desenvolvimento de Sistemas da FAETERJ-Rio.

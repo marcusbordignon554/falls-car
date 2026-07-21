@@ -13,15 +13,15 @@ Sistema de Gerenciamento de Aluguel de Veículos desenvolvido como projeto acad�
 
 ## 📖 Sobre o Projeto
 
-O Falls-Car é um sistema de gerenciamento para empresas de aluguel de veículos desenvolvido como projeto acadêmico da disciplina Introdução à Análise de Sistemas, do curso de Análise e Desenvo[...]
+O Falls-Car é um sistema de gerenciamento para empresas de aluguel de veículos desenvolvido como projeto acadêmico da disciplina Introdução à Análise de Sistemas, do curso de Análise e Desenvolvimento de Sistemas da FAETERJ-Rio.
 
-O projeto teve como objetivo aplicar conceitos de Engenharia de Software, incluindo levantamento de requisitos, análise de sistemas, modelagem UML e documentação técnica para criação de uma solu[...]
+O projeto teve como objetivo aplicar conceitos de Engenharia de Software, incluindo levantamento de requisitos, análise de sistemas, modelagem UML e documentação técnica para criação de uma solução voltada ao gerenciamento de locações de veículos.
 
 ---
 
 ## 🚗 Sobre o Sistema
 
-O Falls-Car busca facilitar o processo de aluguel de veículos, permitindo que clientes realizem consultas e reservas, enquanto a empresa possui ferramentas para administrar sua frota, clientes e oper[...]
+O Falls-Car busca facilitar o processo de aluguel de veículos, permitindo que clientes realizem consultas e reservas, enquanto a empresa possui ferramentas para administrar sua frota, clientes e operações internas.
 
 O sistema contempla diferentes perfis de usuários, cada um com suas respectivas funcionalidades.
 
@@ -70,7 +70,6 @@ Durante o desenvolvimento foram realizadas as seguintes etapas:
 - Identificação de regras de negócio
 - Modelagem UML
 - Diagrama de Casos de Uso
-- Diagrama de Classes
 - Documentação técnica
 
 ---
@@ -96,9 +95,7 @@ Ela inclui:
 - Documento de Requisitos
 - Regras de Negócio
 - Diagrama de Casos de Uso
-- Diagrama de Classes
 - Diagramas UML
-- Protótipos de Interface
 
 ---
 
@@ -108,9 +105,17 @@ Ela inclui:
 
 ![Tela Inicial](assets/tela-inicial.png)
 
+### Cadastro de Usuário
+
+![Cadastro de Usuário](assets/cadastro-usuario.png)
+
+### Filtro de Carros
+
+![Filtro de Carros](assets/filtro-veiculos.png)
+
 ### Reserva de Veículo
 
-![Reserva](assets/tela-reserva.png)
+![Reserva](assets/reserva-carros.png)
 
 ### Painel Administrativo
 
@@ -121,6 +126,7 @@ Ela inclui:
 ## 👨‍💻 Autores
 
 Marcus Vinicius Simões Bordignon  
-Tiago Luiz da Silva Perri  
+Tiago Luiz da Silva Perri
+Vitória Nogueira Fernandes
 
 Projeto desenvolvido durante o 1º período do curso de Análise e Desenvolvimento de Sistemas da FAETERJ-Rio.

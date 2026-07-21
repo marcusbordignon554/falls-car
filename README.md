@@ -3,7 +3,7 @@
 [![FAETERJ](https://img.shields.io/badge/FAETERJ-Introdução%20à%20Análise%20de%20Sistemas-009688)]()
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)]()
 [![Projeto Acadêmico](https://img.shields.io/badge/Projeto-Acadêmico-blue.svg)]()
-[![Google AI](https://img.shields.io/badge/Google-AI_Studio-red?logo=google)]()
+[![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?logo=figma)]()
 [![UML](https://img.shields.io/badge/UML-Diagrams-blueviolet)]()
 FAETERJ Status Projeto Acadêmico UML Engenharia de Software
 
@@ -13,15 +13,15 @@ Sistema de Gerenciamento de Aluguel de Veículos desenvolvido como projeto acad�
 
 ## 📖 Sobre o Projeto
 
-O Falls-Car é um sistema de gerenciamento para empresas de aluguel de veículos desenvolvido como projeto acadêmico da disciplina Introdução à Análise de Sistemas, do curso de Análise e Desenvolvimento de Sistemas da FAETERJ-Rio.
+O Falls-Car é um sistema de gerenciamento para empresas de aluguel de veículos desenvolvido como projeto acadêmico da disciplina Introdução à Análise de Sistemas, do curso de Análise e Desenvo[...]
 
-O projeto teve como objetivo aplicar conceitos de Engenharia de Software, incluindo levantamento de requisitos, análise de sistemas, modelagem UML e documentação técnica para criação de uma solução voltada ao gerenciamento de locações de veículos.
+O projeto teve como objetivo aplicar conceitos de Engenharia de Software, incluindo levantamento de requisitos, análise de sistemas, modelagem UML e documentação técnica para criação de uma solu[...]
 
 ---
 
 ## 🚗 Sobre o Sistema
 
-O Falls-Car busca facilitar o processo de aluguel de veículos, permitindo que clientes realizem consultas e reservas, enquanto a empresa possui ferramentas para administrar sua frota, clientes e operações internas.
+O Falls-Car busca facilitar o processo de aluguel de veículos, permitindo que clientes realizem consultas e reservas, enquanto a empresa possui ferramentas para administrar sua frota, clientes e oper[...]
 
 O sistema contempla diferentes perfis de usuários, cada um com suas respectivas funcionalidades.
 

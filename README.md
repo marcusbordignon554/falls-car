@@ -104,7 +104,7 @@ Ela inclui:
 
 ### Tela Inicial
 
-![Tela Inicial](assets/tela-inicial.png)
+![Tela Inicial](assets/tela_inicial.png)
 
 ### Cadastro de Usuário
 

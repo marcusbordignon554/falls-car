@@ -6,7 +6,7 @@
 ![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?logo=figma)
 ![UML](https://img.shields.io/badge/UML-Diagrams-blueviolet)
 
-FAETERJ Status Projeto Acadêmico UML Engenharia de Software
+FAETERJ • Projeto Acadêmico • Engenharia de Software • UML
 
 Sistema de Gerenciamento de Aluguel de Veículos desenvolvido como projeto acadêmico da disciplina Introdução à Análise de Sistemas da FAETERJ.
 
